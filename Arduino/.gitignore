@@ -1,0 +1,22 @@
+# System files
+Thumbs.db
+Thumbs.db.meta
+*.DS_Store
+*.directory
+.vs
+.vscode
+
+# Visual Studio files
+*.cachefile
+*.pidb
+*.suo
+*.user
+*.sln
+*.userprefs
+*.v11
+*.v12
+*.vcxproj
+*.filters
+
+# Folder to exclude
+__vm
